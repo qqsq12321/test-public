@@ -1,0 +1,4 @@
+[project]
+name = "test-repo"
+version = "0.0.1-test"
+description = "Test repo for release workflow verification"
